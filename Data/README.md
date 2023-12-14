@@ -11,4 +11,4 @@
   
 Composed of several other animal categories
 ***
-Drive link : <https://drive.google.com/drive/folders/1bpydmh7igaFBzjy-O34a-V5avCxPy8jd?usp=sharing>
+Drive link : <https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=645>
